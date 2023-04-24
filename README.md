@@ -2,12 +2,12 @@
 
 **Hola**, mi nombre es **Angélica Ocampo**, Frontend Developer y felizmente estoy aspirando a tener un cupo en el gran equipo que es **MELI.** A continuación podran encontrar detalles sobre la implementación de la prueba técnica, espero les sea de su agrado. Muchas gracias.
 
-##Recursos
+## Recursos
 
 - Backend
 - Frontend
 
-##Backend
+## Backend
 El backend está implementado en JavaScript con **Node** y **Express**. Para una mejor implementación y apoyo en la lógica se destacan las siguientes librerías:
 
 - `hapi/boom`: para el manejo de errores y quedaran de una manera mucho más comprensible.
@@ -27,7 +27,7 @@ El backend está implementado en JavaScript con **Node** y **Express**. Para una
             app
             index
 
-##Frontend
+## Frontend
 El frontend está implementado con JavaScript y React. Dentro de su implementación se destacan las siguientes librerías:
 
 - `material-ui`: como la biblioteca de componentes de interfaz de usuario.
@@ -63,7 +63,7 @@ El frontend está implementado con JavaScript y React. Dentro de su implementaci
     		index
     		...
 
-##Instalación
+## Instalación
 Clona todo este repo, cuando lo hayas clonado, ingresa a cada directorio del front y back correspondiente, situados en la raiz de cada directorio, solo ejecuta `npm i` y listo 🥰. Aquí te va un ejemplo:
 `user/front-meli/ npm i`
 `user/back-meli/ npm i`
