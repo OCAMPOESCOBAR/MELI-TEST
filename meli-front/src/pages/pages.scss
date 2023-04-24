@@ -1,0 +1,16 @@
+.card-content {
+  padding: 30px 150px;
+}
+
+.home-content {
+  padding: 40px;
+  text-align: center;
+}
+
+.card-header {
+    display: flex !important; 
+    align-items: stretch !important;
+    .MuiCardHeader-action {
+        margin: 0;
+    }
+}

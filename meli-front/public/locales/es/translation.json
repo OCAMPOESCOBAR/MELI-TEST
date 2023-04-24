@@ -1,0 +1,17 @@
+{
+  "placeholder": "Nunca dejes de buscar",
+  "description": "Descripción del producto",
+  "new": "Nuevo",
+  "used": "Usado",
+  "buy": "Comprar",
+  "soldQuantity": "{{count}} vendido",
+  "soldQuantity_plural": "{{count}} vendidos",
+  "notFound": {
+      "title": "No hay publicaciones que coincidan con tu búsqueda.",
+      "msgOne": "Revisa la ortografía de la palabra.",
+      "msgTwo": "Utiliza palabras más genéricas o menos palabras."
+  },
+  "error": "¡Ups! Algo ha salido mal.",
+  "products": "Productos",
+  "home": "Inicio"
+}
