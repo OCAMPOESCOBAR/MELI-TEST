@@ -1,0 +1,24 @@
+{
+  "name": "meli-back",
+  "version": "1.0.0",
+  "description": "Backend para prueba MELI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Angelica Ocampo",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.3.6",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.1.5",
+    "joi": "^17.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
